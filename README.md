@@ -9,7 +9,7 @@ C# · .NET · ASP.NET Core · Optimizely CMS & Commerce · Sitecore · Kontent.a
 
 ### Side projects
 - **Game in C# with [MonoGame](https://monogame.net)**: in progress, not public yet
-- **Discord bot** for my friends' server: [repo link]
+- **Discord bot** for my friends' server: [discord-adjutant](https://github.com/alexFinn97/discord-adjutant)
 
 ### Certifications
 Optimizely PaaS CMS Certified Developer · Sitecore 10 .NET Developer · Sitecore XP 9 Developer
