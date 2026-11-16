@@ -1,16 +1,18 @@
-## Hi there 👋
+# Alex Finnigan
 
-<!--
-**alexFinn97/alexFinn97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET developer at [Mando Group](https://www.mandogroup.com) in Liverpool, UK.
+I build CMS-driven websites on Optimizely, Sitecore, Kontent.ai and Umbraco. Most recently I've been
+technical lead on moving large sites off Sitecore onto Optimizely CMS 12 and headless platforms.
 
-Here are some ideas to get you started:
+### Tech I work with
+C# · .NET · ASP.NET Core · Optimizely CMS & Commerce · Sitecore · Kontent.ai · Vue.js · Azure DevOps (YAML) · SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Side projects
+- **Game in C# with [MonoGame](https://monogame.net)**: in progress, not public yet
+- **Discord bot** for my friends' server: [repo link]
+
+### Certifications
+Optimizely PaaS CMS Certified Developer · Sitecore 10 .NET Developer · Sitecore XP 9 Developer
+
+### Elsewhere
+[LinkedIn](https://www.linkedin.com/in/alex-finnigan-3a4641171/) · Currently learning Japanese (日本語を勉強中)
