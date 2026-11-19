@@ -24,4 +24,4 @@ Azure App Service · Azure DevOps (YAML) · GitHub Actions · SQL Server · Visu
 Optimizely PaaS CMS Certified Developer · Sitecore 10 .NET Developer · Sitecore XP 9 Developer
 
 ### Elsewhere
-[LinkedIn](https://www.linkedin.com/in/alex-finnigan-3a4641171/) · Currently learning Japanese (日本語を勉強中)
+[LinkedIn](https://www.linkedin.com/in/alex-finnigan-pf97/) · Currently learning Japanese (日本語を勉強中)
