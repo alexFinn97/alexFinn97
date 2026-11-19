@@ -13,12 +13,14 @@ It reads your project with Roslyn to match your conventions. Now in preview, and
 
 ### Tech I work with
 C# · .NET · Optimizely CMS & Commerce · Sitecore · Kontent.ai · Vue.js ·
-Azure App Service · Azure DevOps (YAML) · GitHub Actions · SQL Server · Visual Studio extensions (VSIX) · Roslyn
+Azure App Service · Azure DevOps (YAML) · GitHub Actions · SQL Server · Visual Studio extensions (VSIX) · Roslyn ·
+Python · Docker
 
 ### Side projects
 - **[JLBS Construction](https://jlbswirral.co.uk)**: website for a Wirral building company, built on ASP.NET Core 10 and Azure (private repo)
 - **Controlled Bursts**: a side-scrolling squad extraction roguelike in C# with [MonoGame](https://monogame.net), in progress and not public yet
-- **[discord-adjutant](https://github.com/alexFinn97/discord-adjutant)**: a Discord bot for my friends' server
+- **[discord-adjutant](https://github.com/alexFinn97/discord-adjutant)**: a Python Discord bot for my friends' server that plays music
+  in voice channels and warps faces in images. It ships as a multi-architecture Docker image, built and deployed by GitHub Actions
 
 ### Certifications
 Optimizely PaaS CMS Certified Developer · Sitecore 10 .NET Developer · Sitecore XP 9 Developer
