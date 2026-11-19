@@ -12,7 +12,7 @@ It reads your project with Roslyn to match your conventions. Now in preview, and
 [Commerce add-on](https://marketplace.visualstudio.com/items?itemName=alexFinn97.ScaffolderForOptimizelyCommerce)
 
 ### Tech I work with
-C# · .NET (up to .NET 10) · ASP.NET Core · Optimizely CMS & Commerce · Sitecore · Kontent.ai · Vue.js ·
+C# · .NET · Optimizely CMS & Commerce · Sitecore · Kontent.ai · Vue.js ·
 Azure App Service · Azure DevOps (YAML) · GitHub Actions · SQL Server · Visual Studio extensions (VSIX) · Roslyn
 
 ### Side projects
